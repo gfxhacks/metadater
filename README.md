@@ -18,7 +18,7 @@ chmod +x metadater.sh
 Then copy/move it to the `/usr/local/bin` directory:
 
 ```sh
-sudo mv /usr/local/bin
+sudo mv metadater.sh /usr/local/bin/metadater
 ```
 
 If using a custom directory, make sure it's indexed in the `PATH` -
